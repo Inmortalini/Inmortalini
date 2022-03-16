@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inmortalini
+- 👋 Hi, I’m Pedro Barrientos.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning The Web Developer Bootcamp 2022 from Stele Colt on Udemy
 
