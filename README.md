@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pedro Barrientos.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning The Web Developer Bootcamp 2022 from Stele Colt on Udemy
+- 🌱 I’m currently learning The Web Developer 
 
-- 💞️ I’m looking to collaboratewith other content developers and creators.
+-
 - 📫 How to reach me 
 pedrobarrientosvoss@gmail.com
 +591 77625799
