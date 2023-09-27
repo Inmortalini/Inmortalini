@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning The Web Developer 
 
--
+
 - 📫 How to reach me 
 pedrobarrientosvoss@gmail.com
 +591 77625799
